@@ -68,3 +68,8 @@
   -webkit-animation: rainbow 2s linear infinite;
   animation: rainbow 2s linear infinite;
 }
+
+.name {
+  color: var(--color);
+  transition: color 0.3s ease-in-out;
+}
