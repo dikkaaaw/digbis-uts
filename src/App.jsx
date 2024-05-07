@@ -16,7 +16,7 @@ function App() {
           <img src={amikomLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>APLIKASI DIGITAL BUSINESS</h1>
+      <h1 className="rainbow-text">APLIKASI MATHGROWTH</h1>
       <h3>By</h3>
       <h2>Dika Wicaksono 21.11.4238</h2>
       <h2>Martinus Juan Prasetyo 21.11.4251</h2>
